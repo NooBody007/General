@@ -1,0 +1,4 @@
+https://medium.com/data-science-from-signify-research-eindhoven/what-why-and-how-to-build-a-custom-environment-using-openai-gym-for-reinforcement-learning-rl-76c951d75af3
+
+https://towardsdatascience.com/create-your-own-reinforcement-learning-environment-beb12f4151ef
+

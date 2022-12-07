@@ -1,0 +1,24 @@
+tv remote
+
+
+couple of leds for channels
+2 leds(green/red) for on/off
+couple of leds for volume(each 10 increment lights 1 more led)
+
+
+on/off(resume/pause) --> 67
+
+-channel --> 69
++channel --> 71
+
+-volume --> 7
++volume --> 21
+
+channel 0 --> 22
+channel 1 --> 12
+channel 2 --> 24
+channel 3 --> 94
+channel 4 --> 8
+channel 5 --> 28
+
+

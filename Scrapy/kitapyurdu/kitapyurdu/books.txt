@@ -1,0 +1,600 @@
+------------------------
+1.
+Kitap Adı: Veba Geceleri
+Yazar:  Orhan Pamuk
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+2.
+Kitap Adı: Var Mısın? & Güçlü Bir Yaşam İçin Öneriler
+Yazar:  Doğan Cüceloğlu
+Yayınevi: KRONİK KİTAP
+------------------------
+------------------------
+3.
+Kitap Adı: Momo
+Yazar:  Michael Ende
+Yayınevi: PEGASUS YAYINLARI
+------------------------
+------------------------
+4.
+Kitap Adı: 1984
+Yazar:  George Orwell
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+5.
+Kitap Adı: Küllerin Günü
+Yazar:  Jean Christophe Grange
+Yayınevi: DOĞAN KİTAP
+------------------------
+------------------------
+6.
+Kitap Adı: Herkes İçin Siyer
+Yazar:  Muhammed Emin Yıldırım
+Yayınevi: PROFİL KİTAP
+------------------------
+------------------------
+7.
+Kitap Adı: Körlük
+Yazar:  Bekir Develi
+Yayınevi: KIRMIZI KEDİ YAYINEVİ
+------------------------
+------------------------
+8.
+Kitap Adı: Fareler ve İnsanlar
+Yazar:  Jose Saramago
+Yayınevi: SEL YAYINCILIK
+------------------------
+------------------------
+9.
+Kitap Adı: Yakın Tarihin Gerçekleri
+Yazar:  John Steinbeck
+Yayınevi: KRONİK KİTAP
+------------------------
+------------------------
+10.
+Kitap Adı: Parsel Parsel
+Yazar: Prof. Dr. İlber Ortaylı
+Yayınevi: KIRMIZI KEDİ YAYINEVİ
+------------------------
+------------------------
+11.
+Kitap Adı: İçimdeki Dostlar (İlkokul Düzeyi)
+Yazar:  Murat Ağırel
+Yayınevi: UFKA YOLCULUK
+------------------------
+------------------------
+12.
+Kitap Adı: Camdaki Kız
+Yazar:  Kollektif 
+Yayınevi: DOĞAN KİTAP
+------------------------
+------------------------
+13.
+Kitap Adı: Saatleri Ayarlama Enstitüsü
+Yazar: Dr. Gülseren Budayıcıoğlu
+Yayınevi: DERGAH YAYINLARI
+------------------------
+------------------------
+14.
+Kitap Adı: Fahrenheit 451
+Yazar:  Ahmet Hamdi Tanpınar
+Yayınevi: İTHAKİ YAYINLARI
+------------------------
+------------------------
+15.
+Kitap Adı: Tüfek, Mikrop ve Çelik  (Karton Kapak) 
+Yazar:  Ray Bradbury
+Yayınevi: PEGASUS YAYINLARI
+------------------------
+------------------------
+16.
+Kitap Adı: Hayvan Çiftliği (Ciltsiz)
+Yazar:  Jared Diamond
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+17.
+Kitap Adı: Otomatik Portakal (Ciltsiz)
+Yazar:  George Orwell
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+18.
+Kitap Adı: Empedokles'in Dostları
+Yazar:  Anthony Burgess
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+19.
+Kitap Adı: Simyacı (Ciltsiz)
+Yazar:  Amin Maalouf
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+20.
+Kitap Adı: Sineklerin Tanrısı (karton kapak)
+Yazar:  Paulo Coelho
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+21.
+Kitap Adı: Şeker Portakalı (Ciltsiz)
+Yazar:  Jose Mauro De Vasconcelos
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+22.
+Kitap Adı: Cesur Yeni Dünya
+Yazar:  Aldous Huxley
+Yayınevi: İTHAKİ YAYINLARI
+------------------------
+------------------------
+23.
+Kitap Adı: İçimizdeki Şeytan
+Yazar:  Sabahattin Ali
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+24.
+Kitap Adı: Bin Dokuz Yüz Seksen Dört - 1984 
+Yazar:  George Orwell
+Yayınevi: KAPRA YAYINCILIK
+------------------------
+------------------------
+25.
+Kitap Adı: Gerçek Tıp & Yitik Şifanın İzinde
+Yazar:  Aidin Salih
+Yayınevi: YİTİK ŞİFA
+------------------------
+------------------------
+26.
+Kitap Adı: Hastasızhane (Ortaokul Düzeyi)
+Yazar:  Kollektif 
+Yayınevi: UFKA YOLCULUK
+------------------------
+------------------------
+27.
+Kitap Adı: Kürk Mantolu Madonna
+Yazar:  Sabahattin Ali
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+28.
+Kitap Adı: Semerkant
+Yazar:  Amin Maalouf
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+29.
+Kitap Adı: Yabancı
+Yazar:  Albert Camus
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+30.
+Kitap Adı: Hayvan Çiftliği
+Yazar:  George Orwell
+Yayınevi: KAPRA YAYINCILIK
+------------------------
+------------------------
+31.
+Kitap Adı: Altıncı Koğuş
+Yazar:  Anton Çehov
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+32.
+Kitap Adı: Madalyonun İçi
+Yazar: Dr. Gülseren Budayıcıoğlu
+Yayınevi: REMZİ KİTABEVİ
+------------------------
+------------------------
+33.
+Kitap Adı: Suç ve Ceza (Ciltsiz)
+Yazar:  Fyodor Mihailoviç Dostoyevski
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+34.
+Kitap Adı: İyileşen Çocukluğum İyileşen Anneliğim
+Yazar:  Hatice Kübra Tongar
+Yayınevi: HAYY KİTAP
+------------------------
+------------------------
+35.
+Kitap Adı: İnsanın Anlam Arayışı
+Yazar:  Viktor Emil Frankl
+Yayınevi: OKUYAN US YAYIN
+------------------------
+------------------------
+36.
+Kitap Adı: Kızıl Veba
+Yazar:  Jack London
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+37.
+Kitap Adı: İnce Memed 1
+Yazar:  Yaşar Kemal
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+38.
+Kitap Adı: Kırmızı Pazartesi
+Yazar:  Gabriel Garcia Marquez
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+39.
+Kitap Adı: İçimdeki Müzik 
+Yazar:  Sharon M. Draper
+Yayınevi: TİMAŞ GENÇ
+------------------------
+------------------------
+40.
+Kitap Adı: Beyaz Gemi
+Yazar:  Cengiz Aytmatov
+Yayınevi: ÖTÜKEN NEŞRİYAT
+------------------------
+------------------------
+41.
+Kitap Adı: Günahın Üç Rengi & Madalyonun Öteki Yüzü
+Yazar: Dr. Gülseren Budayıcıoğlu
+Yayınevi: REMZİ KİTABEVİ
+------------------------
+------------------------
+42.
+Kitap Adı: Yeraltından Notlar (Karton Kapak)
+Yazar:  Fyodor Mihailoviç Dostoyevski
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+43.
+Kitap Adı: Pal Sokağı Çocukları
+Yazar:  Ferenc Molnar
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+44.
+Kitap Adı: Serenad (Karton Kapak)
+Yazar:  Zülfü Livaneli
+Yayınevi: DOĞAN KİTAP
+------------------------
+------------------------
+45.
+Kitap Adı: Olağanüstü Bir Gece
+Yazar:  Stefan Zweig
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+46.
+Kitap Adı: İrade Terbiyesi
+Yazar:  Jules Payot
+Yayınevi: KARBON KİTAPLAR
+------------------------
+------------------------
+47.
+Kitap Adı: Başarıya Götüren Aile
+Yazar:  Doğan Cüceloğlu
+Yayınevi: REMZİ KİTABEVİ
+------------------------
+------------------------
+48.
+Kitap Adı: Fabrika Ayarı
+Yazar:  Hayati İnanç
+Yayınevi: PROFİL KİTAP
+------------------------
+------------------------
+49.
+Kitap Adı: Açık Ufuk & İyi, Doğru ve Güzel Düşünmek Üzerine
+Yazar:  Bekir Develi
+Yayınevi: İNSAN YAYINLARI
+------------------------
+------------------------
+50.
+Kitap Adı: Charlie'nin Çikolata Fabrikası (Ciltsiz)
+Yazar:  İbrahim Kalın
+Yayınevi: CAN ÇOCUK YAYINLARI
+------------------------
+------------------------
+51.
+Kitap Adı: Diriliş Neslinin Amentüsü
+Yazar:  Roald Dahl
+Yayınevi: DİRİLİŞ YAYINLARI
+------------------------
+------------------------
+52.
+Kitap Adı: Doğunun Limanları
+Yazar:  Sezai Karakoç
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+53.
+Kitap Adı: Kuyucaklı Yusuf
+Yazar:  Amin Maalouf
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+54.
+Kitap Adı: Ben, Kirke
+Yazar:  Sabahattin Ali
+Yayınevi: İTHAKİ YAYINLARI
+------------------------
+------------------------
+55.
+Kitap Adı: Geliştiren Anne-Baba
+Yazar:  Madeline Miller
+Yayınevi: REMZİ KİTABEVİ
+------------------------
+------------------------
+56.
+Kitap Adı: Nohut Adam
+Yazar:  Doğan Cüceloğlu
+Yayınevi: TİMAŞ ÇOCUK YAYINLARI
+------------------------
+------------------------
+57.
+Kitap Adı: Veronika Ölmek İstiyor
+Yazar:  Anıl Basılı
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+58.
+Kitap Adı: Aylak Adam
+Yazar:  Paulo Coelho
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+59.
+Kitap Adı: Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman
+Yazar:  Yusuf Atılgan
+Yayınevi: PAN YAYINCILIK
+------------------------
+------------------------
+60.
+Kitap Adı: Ay'ı Kim Çaldı?
+Yazar:  Jostein Gaarder
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+61.
+Kitap Adı: Puslu Kıtalar Atlası
+Yazar:  İhsan Oktay Anar
+Yayınevi: İLETİŞİM YAYINLARI
+------------------------
+------------------------
+62.
+Kitap Adı: İFA: İnsanın Fabrika Ayarları 1.Kitap / Beden
+Yazar:  Sinan Canan
+Yayınevi: TUTİ KİTAP
+------------------------
+------------------------
+63.
+Kitap Adı: Huzursuzluk
+Yazar:  Zülfü Livaneli
+Yayınevi: DOĞAN KİTAP
+------------------------
+------------------------
+64.
+Kitap Adı: Şu Yaramaz Tavşanlar
+Yazar:  Ciara Flood
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+65.
+Kitap Adı: Sokrates'in Savunması (Karton Kapak)
+Yazar:  Platon(Eflatun) 
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+66.
+Kitap Adı: Satranç (Karton Kapak)
+Yazar:  Stefan Zweig
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+67.
+Kitap Adı: Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Yazar: Prof. Dr. İlber Ortaylı
+Yayınevi: KRONİK KİTAP
+------------------------
+------------------------
+68.
+Kitap Adı: Kardeşimin Hikayesi (Karton Kapak)
+Yazar:  Zülfü Livaneli
+Yayınevi: DOĞAN KİTAP
+------------------------
+------------------------
+69.
+Kitap Adı: Küçük Kara Balık
+Yazar:  Samed Behrengi
+Yayınevi: KARBON KİTAPLAR
+------------------------
+------------------------
+70.
+Kitap Adı: Allah’ım Ben Geldim
+Yazar:  Hatice Kübra Tongar
+Yayınevi: HAYY KİTAP
+------------------------
+------------------------
+71.
+Kitap Adı: İFA: İnsanın Fabrika Ayarları 3. Kitap / Sınırları Aşmak
+Yazar:  Sinan Canan
+Yayınevi: TUTİ KİTAP
+------------------------
+------------------------
+72.
+Kitap Adı: Devlet (Ciltsiz)
+Yazar:  Platon(Eflatun) 
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+73.
+Kitap Adı: Sırça Köşk
+Yazar:  Sabahattin Ali
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+74.
+Kitap Adı: Son Cüret
+Yazar:  Yılmaz Özdil
+Yayınevi: SİA KİTAP
+------------------------
+------------------------
+75.
+Kitap Adı: Gülün Adı (Ciltsiz)
+Yazar:  Umberto Eco
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+76.
+Kitap Adı: Beş Şehir
+Yazar:  Ahmet Hamdi Tanpınar
+Yayınevi: DERGAH YAYINLARI
+------------------------
+------------------------
+77.
+Kitap Adı: İrade Terbiyesi
+Yazar:  Jules Payot
+Yayınevi: KAPRA YAYINCILIK
+------------------------
+------------------------
+78.
+Kitap Adı: Çavdar Tarlasında Çocuklar
+Yazar:  J. D. Salinger
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+79.
+Kitap Adı: Delifişek
+Yazar:  Jose Mauro De Vasconcelos
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+80.
+Kitap Adı: Kumkurdu Serisi Seti (3 Kitap)
+Yazar:  Asa Lind
+Yayınevi: PEGASUS  ÇOCUK YAYINLARI
+------------------------
+------------------------
+81.
+Kitap Adı: Masumiyet Müzesi
+Yazar:  Orhan Pamuk
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+82.
+Kitap Adı: İnsan Olmak
+Yazar:  Engin Geçtan
+Yayınevi: METİS YAYINLARI
+------------------------
+------------------------
+83.
+Kitap Adı: İyi Hissetmek
+Yazar: Dr. David Burns
+Yayınevi: PSİKONET YAYINLARI
+------------------------
+------------------------
+84.
+Kitap Adı: Savaşçı
+Yazar:  Doğan Cüceloğlu
+Yayınevi: REMZİ KİTABEVİ
+------------------------
+------------------------
+85.
+Kitap Adı: Siddhartha (Ciltsiz)
+Yazar:  Hermann Hesse
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+86.
+Kitap Adı: Bu Ülke
+Yazar:  Cemil Meriç
+Yayınevi: İLETİŞİM YAYINLARI
+------------------------
+------------------------
+87.
+Kitap Adı: Güneşi Uyandıralım
+Yazar:  Jose Mauro De Vasconcelos
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+88.
+Kitap Adı: Dönüşüm (Karton Kapak)
+Yazar:  Franz Kafka
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+89.
+Kitap Adı: Abartma Tozu
+Yazar:  Şermin Yaşar
+Yayınevi: TAZE KİTAP
+------------------------
+------------------------
+90.
+Kitap Adı: İslamın Dirilişi
+Yazar:  Sezai Karakoç
+Yayınevi: DİRİLİŞ YAYINLARI
+------------------------
+------------------------
+91.
+Kitap Adı: Uğultulu Tepeler
+Yazar:  Emily Bronte
+Yayınevi: CAN YAYINLARI
+------------------------
+------------------------
+92.
+Kitap Adı: Martı
+Yazar:  Anton Çehov
+Yayınevi: KAPRA YAYINCILIK
+------------------------
+------------------------
+93.
+Kitap Adı: Kitleler Psikolojisi
+Yazar:  Gustave Le Bon
+Yayınevi: KAPRA YAYINCILIK
+------------------------
+------------------------
+94.
+Kitap Adı: Oblomov (Ciltsiz)
+Yazar:  İvan Gonçarov
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+95.
+Kitap Adı: Ulusların Düşüşü
+Yazar:  Daron Acemoğlu
+Yayınevi: DOĞAN KİTAP
+------------------------
+------------------------
+96.
+Kitap Adı: Bir Kürt Sevdim
+Yazar:  James A. Robinson
+Yayınevi: MÜPTELA
+------------------------
+------------------------
+97.
+Kitap Adı: Gacagucu ve Dünyanın Öbür Ucu
+Yazar:  Dilek Bilgiç Esen
+Yayınevi: FOM KİTAP
+------------------------
+------------------------
+98.
+Kitap Adı: İnce Memed 2
+Yazar:  Sinan Yaşar
+Yayınevi: YAPI KREDİ YAYINLARI
+------------------------
+------------------------
+99.
+Kitap Adı: Amok Koşucusu
+Yazar:  Yaşar Kemal
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
+------------------------
+100.
+Kitap Adı: Gurur ve Önyargı (Ciltsiz)
+Yazar:  Stefan Zweig
+Yayınevi: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+------------------------
